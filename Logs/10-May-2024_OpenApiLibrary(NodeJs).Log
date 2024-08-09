@@ -1,0 +1,10 @@
+10-May-2024 10:59:59		SUCCESS			MOFSLOPENAPI.js			Initialize Constructor
+10-May-2024 11:0:0		SUCCESS			MOFSLOPENAPI.js			Devicemodel set
+10-May-2024 11:0:0		SUCCESS			MOFSLOPENAPI.js			Manufacturer set
+10-May-2024 11:0:0		SUCCESS			MOFSLOPENAPI.js			Getting ClientPublicIP
+10-May-2024 11:0:0		SUCCESS			MOFSLOPENAPI.js			ClientPublicIP set
+10-May-2024 11:0:0		SUCCESS			MOFSLOPENAPI.js			Login Request Initialize
+10-May-2024 11:0:0		SUCCESS			MOFSLOPENAPI.js			Initialize Post WebRequest Sent
+10-May-2024 11:0:0		SUCCESS			MOFSLOPENAPI.js			Post WebRequest Send Successfully
+10-May-2024 11:0:0		SUCCESS			MOFSLOPENAPI.js			Login Response Returned
+10-May-2024 11:0:0		SUCCESS			MOFSLOPENAPI.js			AuthToken Set Globally
